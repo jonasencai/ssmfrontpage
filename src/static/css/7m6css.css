@@ -1,0 +1,13 @@
+h2{
+    font-size: 18px;
+    font-family: "楷体", sans-serif;
+  }
+  p{
+    font-family: 'Times New Roman', Times, "宋体";
+    font-size: 12px;
+    line-height: 20px;
+  }
+  span{
+    font-weight: strong;
+    color: red;
+  }
